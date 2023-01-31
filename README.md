@@ -1,7 +1,5 @@
 # AI_and_human_paintings
 
-# Human-versus-AI-painting
-
 ## Data
 The human and AI painting datasets used in our reseach can be accessed at https://drive.google.com/drive/folders/1ITG9zLnn2NkK1_PS7B9UBa5DitXrawum?usp=sharing
 
